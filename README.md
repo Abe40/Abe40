@@ -6,7 +6,7 @@ I am Abraham shimekt from Ethiopia and I build websites and mobile applications.
 
 Skills: Web/ JS / HTML / CSS/spring boot/django/node/react/python/java/dart/C/c++/
 
-- 🔭 I’m currently working on Software Engineering Student at Addis Ababa instiute of Technology 
+- 🔭 I’m currently working on Tutorial app using flutter 
 - 🌱 I’m currently learning Software Engineering 
 
 
