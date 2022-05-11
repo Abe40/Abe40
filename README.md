@@ -1,6 +1,6 @@
 ### Hi there 👋, Abraham Shimekt
 #### Software Engineer  and Developer
-![Software Engineer  and Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFhRe2F2NnfIw/profile-displaybackgroundimage-shrink_350_1400/0/1634224223377?e=1657756800&v=beta&t=HwmIf4dxCN05JabMCs7Lbh7TO7ooTy7HYtW3rjpcO6E)
+![Software Engineer  and Developer](https://github.com/Abe40/Abe40/blob/main/pharmacy.jpg)
 
 I am Abraham shimekt from Ethiopia and I build websites and mobile applications.I really love to learn new frameworks and languages.I use spring boot, django and Node for backend development and for frontend I use mostly boootstrap as css framework.I also build cross platform mobile applictions using flutter.
 
